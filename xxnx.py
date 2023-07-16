@@ -6,10 +6,10 @@ windows = 'cls'
 tok = ('6385664119:AAFbKVa8LbudCRy1mzq-hK7zGSHIPaPtXho')
 print('')
 #print('\033[1;32mقم بادخال يوزر الحساب الانستا الخاص بك')
-username = ('its.zaidsawalhaa')
+username = ('nadernader6566565')
 #print('')
 #print('\033[1;32mقم بادخال باسوورد حسابك الانستا الخاص بك')
-password = ('ameet200')
+password = ('1350971290')
 try:
 	import requests 
 	import telebot 
